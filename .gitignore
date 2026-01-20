@@ -1,0 +1,32 @@
+## Build outputs
+bin/
+obj/
+
+## User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Visual Studio / VS Code
+.vs/
+.vscode/
+
+## Rider
+.idea/
+
+## Logs
+*.log
+
+## OS
+[Dd]esktop.ini
+Thumbs.db
+
+## Publish
+publish/
+
+## dotenv / secrets
+.env
+
+## Test results
+TestResults/
